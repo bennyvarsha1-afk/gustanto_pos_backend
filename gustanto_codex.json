@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "boba",
+      "name": "Boba"
+    },
+    {
+      "id": "milkshakes",
+      "name": "Milkshakes"
+    },
+    {
+      "id": "mocktails",
+      "name": "Mocktails & Crushes"
+    },
+    {
+      "id": "momos",
+      "name": "Momos"
+    },
+    {
+      "id": "hot_drinks",
+      "name": "Hot Drinks"
+    },
+    {
+      "id": "juices",
+      "name": "Juices"
+    }
+  ],
+  "menu_items": []
+}
